@@ -1,0 +1,10 @@
+flask
+gunicorn
+Jinja2
+MarkupSafe
+numpy
+pandas
+regex
+spacy==3.7.2
+scikit-learn
+joblib
